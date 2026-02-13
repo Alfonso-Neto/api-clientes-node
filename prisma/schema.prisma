@@ -1,0 +1,13 @@
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Cliente {
+  id              Int      @id @default(autoincrement())
+  nome            String
+  sobrenome       String
+  endereco        String
+  dataNascimento  DateTime
+  sexo            String
+}
