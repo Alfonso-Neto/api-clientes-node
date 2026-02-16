@@ -17,7 +17,7 @@ Verificar as versões por meio dos comandos:
 
 ## Como rodar projeto
 Primeiro deve-se clonar o repositório através do comando:
-git clone https://github.com/Alfonso-Neto/Cadastro-Cliente-Onboarding-NODEJS.git
+git clone https://github.com/Alfonso-Neto/api-clientes-node.git
 
 ## Estrutura de pastas
 A estrutura de pastas do atual projeto segue da seguinte forma:
